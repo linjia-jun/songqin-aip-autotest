@@ -1,2 +1,2 @@
-# songqin-aip-autotest
+# songqin-api-autotest
 api autotest learn
